@@ -306,5 +306,9 @@
    {
       "cc" : "cl",
       "code" : "santiago"
+   },
+   {
+      "cc" : "ve",
+      "code" : "caracas"
    }
 ]
