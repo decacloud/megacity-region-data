@@ -10,8 +10,7 @@ Top-level JSON object:   Array of megacity regions.
 
 ```
 {
-  "name": "megacity region name -- often, the same name as the city",
-  "city": "closest city",
-  "cc": "two-letter country code"
+  "cc": "ISO Alpha-2 country code",
+  "name": "megacity region name -- often, the same name as the city"
 }
 ```
