@@ -1,4 +1,4 @@
-[
+{ "regions": [
    {
       "cc" : "eg",
       "code" : "alexandria"
@@ -311,4 +311,4 @@
       "cc" : "ve",
       "code" : "caracas"
    }
-]
+] }
