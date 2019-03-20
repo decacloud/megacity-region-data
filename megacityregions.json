@@ -1,0 +1,310 @@
+[
+   {
+      "cc" : "eg",
+      "name" : "alexandria"
+   },
+   {
+      "cc" : "eg",
+      "name" : "cairo"
+   },
+   {
+      "cc" : "ae",
+      "name" : "dubai"
+   },
+   {
+      "cc" : "za",
+      "name" : "johannesburg"
+   },
+   {
+      "cc" : "cd",
+      "name" : "kinshasa"
+   },
+   {
+      "cc" : "ng",
+      "name" : "lagos"
+   },
+   {
+      "cc" : "sa",
+      "name" : "riyadh"
+   },
+   {
+      "cc" : "tr",
+      "name" : "ankara"
+   },
+   {
+      "cc" : "in",
+      "name" : "bangalore"
+   },
+   {
+      "cc" : "th",
+      "name" : "bangkok"
+   },
+   {
+      "cc" : "cn",
+      "name" : "beijing"
+   },
+   {
+      "cc" : "cn",
+      "name" : "changzhou"
+   },
+   {
+      "cc" : "cn",
+      "name" : "chengdu"
+   },
+   {
+      "cc" : "cn",
+      "name" : "chongqing"
+   },
+   {
+      "cc" : "in",
+      "name" : "delhi"
+   },
+   {
+      "cc" : "bd",
+      "name" : "dhaka"
+   },
+   {
+      "cc" : "cn",
+      "name" : "guangzhou"
+   },
+   {
+      "cc" : "cn",
+      "name" : "hangzhou"
+   },
+   {
+      "cc" : "hk",
+      "name" : "hong kong"
+   },
+   {
+      "cc" : "id",
+      "name" : "jakarta"
+   },
+   {
+      "cc" : "af",
+      "name" : "kabul"
+   },
+   {
+      "cc" : "pk",
+      "name" : "karachi"
+   },
+   {
+      "cc" : "in",
+      "name" : "kolkata"
+   },
+   {
+      "cc" : "jp",
+      "name" : "kyoto"
+   },
+   {
+      "cc" : "pk",
+      "name" : "lahore"
+   },
+   {
+      "cc" : "ph",
+      "name" : "manila"
+   },
+   {
+      "cc" : "au",
+      "name" : "melbourne"
+   },
+   {
+      "cc" : "in",
+      "name" : "mumbai"
+   },
+   {
+      "cc" : "kr",
+      "name" : "seoul"
+   },
+   {
+      "cc" : "sg",
+      "name" : "singapore"
+   },
+   {
+      "cc" : "cn",
+      "name" : "shanghai"
+   },
+   {
+      "cc" : "cn",
+      "name" : "shenzhen"
+   },
+   {
+      "cc" : "au",
+      "name" : "sydney"
+   },
+   {
+      "cc" : "in",
+      "name" : "surat"
+   },
+   {
+      "cc" : "ir",
+      "name" : "tehran"
+   },
+   {
+      "cc" : "cn",
+      "name" : "tianjin"
+   },
+   {
+      "cc" : "jp",
+      "name" : "tokyo"
+   },
+   {
+      "cc" : "cn",
+      "name" : "wuhan"
+   },
+   {
+      "cc" : "cn",
+      "name" : "xi'an"
+   },
+   {
+      "cc" : "es",
+      "name" : "barcelona"
+   },
+   {
+      "cc" : "de",
+      "name" : "berlin"
+   },
+   {
+      "cc" : "de",
+      "name" : "frankfurt"
+   },
+   {
+      "cc" : "de",
+      "name" : "hamburg"
+   },
+   {
+      "cc" : "tr",
+      "name" : "istanbul"
+   },
+   {
+      "cc" : "uk",
+      "name" : "london"
+   },
+   {
+      "cc" : "es",
+      "name" : "madrid"
+   },
+   {
+      "cc" : "it",
+      "name" : "milan"
+   },
+   {
+      "cc" : "ru",
+      "name" : "moscow"
+   },
+   {
+      "cc" : "de",
+      "name" : "munich"
+   },
+   {
+      "cc" : "fr",
+      "name" : "paris"
+   },
+   {
+      "cc" : "nl",
+      "name" : "randstad"
+   },
+   {
+      "cc" : "de",
+      "name" : "rhine-ruhr"
+   },
+   {
+      "cc" : "ru",
+      "name" : "st. pete"
+   },
+   {
+      "cc" : "de",
+      "name" : "stuttgart"
+   },
+   {
+      "cc" : "us",
+      "name" : "atlanta"
+   },
+   {
+      "cc" : "us",
+      "name" : "boston"
+   },
+   {
+      "cc" : "us",
+      "name" : "chicago"
+   },
+   {
+      "cc" : "us",
+      "name" : "dallas-FW"
+   },
+   {
+      "cc" : "mx",
+      "name" : "guadalahara"
+   },
+   {
+      "cc" : "us",
+      "name" : "houston"
+   },
+   {
+      "cc" : "us",
+      "name" : "los angeles"
+   },
+   {
+      "cc" : "us",
+      "name" : "miami"
+   },
+   {
+      "cc" : "mx",
+      "name" : "mexico city"
+   },
+   {
+      "cc" : "mx",
+      "name" : "monterrey"
+   },
+   {
+      "cc" : "us",
+      "name" : "new york"
+   },
+   {
+      "cc" : "us",
+      "name" : "philadelphia"
+   },
+   {
+      "cc" : "us",
+      "name" : "phoenix"
+   },
+   {
+      "cc" : "us",
+      "name" : "san francisco"
+   },
+   {
+      "cc" : "ca",
+      "name" : "toronto"
+   },
+   {
+      "cc" : "us",
+      "name" : "washington dc"
+   },
+   {
+      "cc" : "co",
+      "name" : "bogota"
+   },
+   {
+      "cc" : "br",
+      "name" : "belo horizonte"
+   },
+   {
+      "cc" : "ar",
+      "name" : "buenos aires"
+   },
+   {
+      "cc" : "pe",
+      "name" : "lima"
+   },
+   {
+      "cc" : "br",
+      "name" : "rio de janeiro"
+   },
+   {
+      "cc" : "br",
+      "name" : "sao paulo"
+   },
+   {
+      "cc" : "cl",
+      "name" : "santiago"
+   }
+]
