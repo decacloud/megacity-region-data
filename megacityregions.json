@@ -1,310 +1,310 @@
 [
    {
       "cc" : "eg",
-      "name" : "alexandria"
+      "code" : "alexandria"
    },
    {
       "cc" : "eg",
-      "name" : "cairo"
+      "code" : "cairo"
    },
    {
       "cc" : "ae",
-      "name" : "dubai"
+      "code" : "dubai"
    },
    {
       "cc" : "za",
-      "name" : "johannesburg"
+      "code" : "johannesburg"
    },
    {
       "cc" : "cd",
-      "name" : "kinshasa"
+      "code" : "kinshasa"
    },
    {
       "cc" : "ng",
-      "name" : "lagos"
+      "code" : "lagos"
    },
    {
       "cc" : "sa",
-      "name" : "riyadh"
+      "code" : "riyadh"
    },
    {
       "cc" : "tr",
-      "name" : "ankara"
+      "code" : "ankara"
    },
    {
       "cc" : "in",
-      "name" : "bangalore"
+      "code" : "bangalore"
    },
    {
       "cc" : "th",
-      "name" : "bangkok"
+      "code" : "bangkok"
    },
    {
       "cc" : "cn",
-      "name" : "beijing"
+      "code" : "beijing"
    },
    {
       "cc" : "cn",
-      "name" : "changzhou"
+      "code" : "changzhou"
    },
    {
       "cc" : "cn",
-      "name" : "chengdu"
+      "code" : "chengdu"
    },
    {
       "cc" : "cn",
-      "name" : "chongqing"
+      "code" : "chongqing"
    },
    {
       "cc" : "in",
-      "name" : "delhi"
+      "code" : "delhi"
    },
    {
       "cc" : "bd",
-      "name" : "dhaka"
+      "code" : "dhaka"
    },
    {
       "cc" : "cn",
-      "name" : "guangzhou"
+      "code" : "guangzhou"
    },
    {
       "cc" : "cn",
-      "name" : "hangzhou"
+      "code" : "hangzhou"
    },
    {
       "cc" : "hk",
-      "name" : "hong kong"
+      "code" : "hongkong"
    },
    {
       "cc" : "id",
-      "name" : "jakarta"
+      "code" : "jakarta"
    },
    {
       "cc" : "af",
-      "name" : "kabul"
+      "code" : "kabul"
    },
    {
       "cc" : "pk",
-      "name" : "karachi"
+      "code" : "karachi"
    },
    {
       "cc" : "in",
-      "name" : "kolkata"
+      "code" : "kolkata"
    },
    {
       "cc" : "jp",
-      "name" : "kyoto"
+      "code" : "kyoto"
    },
    {
       "cc" : "pk",
-      "name" : "lahore"
+      "code" : "lahore"
    },
    {
       "cc" : "ph",
-      "name" : "manila"
+      "code" : "manila"
    },
    {
       "cc" : "au",
-      "name" : "melbourne"
+      "code" : "melbourne"
    },
    {
       "cc" : "in",
-      "name" : "mumbai"
+      "code" : "mumbai"
    },
    {
       "cc" : "kr",
-      "name" : "seoul"
+      "code" : "seoul"
    },
    {
       "cc" : "sg",
-      "name" : "singapore"
+      "code" : "singapore"
    },
    {
       "cc" : "cn",
-      "name" : "shanghai"
+      "code" : "shanghai"
    },
    {
       "cc" : "cn",
-      "name" : "shenzhen"
+      "code" : "shenzhen"
    },
    {
       "cc" : "au",
-      "name" : "sydney"
+      "code" : "sydney"
    },
    {
       "cc" : "in",
-      "name" : "surat"
+      "code" : "surat"
    },
    {
       "cc" : "ir",
-      "name" : "tehran"
+      "code" : "tehran"
    },
    {
       "cc" : "cn",
-      "name" : "tianjin"
+      "code" : "tianjin"
    },
    {
       "cc" : "jp",
-      "name" : "tokyo"
+      "code" : "tokyo"
    },
    {
       "cc" : "cn",
-      "name" : "wuhan"
+      "code" : "wuhan"
    },
    {
       "cc" : "cn",
-      "name" : "xi'an"
+      "code" : "xian"
    },
    {
       "cc" : "es",
-      "name" : "barcelona"
+      "code" : "barcelona"
    },
    {
       "cc" : "de",
-      "name" : "berlin"
+      "code" : "berlin"
    },
    {
       "cc" : "de",
-      "name" : "frankfurt"
+      "code" : "frankfurt"
    },
    {
       "cc" : "de",
-      "name" : "hamburg"
+      "code" : "hamburg"
    },
    {
       "cc" : "tr",
-      "name" : "istanbul"
+      "code" : "istanbul"
    },
    {
       "cc" : "uk",
-      "name" : "london"
+      "code" : "london"
    },
    {
       "cc" : "es",
-      "name" : "madrid"
+      "code" : "madrid"
    },
    {
       "cc" : "it",
-      "name" : "milan"
+      "code" : "milan"
    },
    {
       "cc" : "ru",
-      "name" : "moscow"
+      "code" : "moscow"
    },
    {
       "cc" : "de",
-      "name" : "munich"
+      "code" : "munich"
    },
    {
       "cc" : "fr",
-      "name" : "paris"
+      "code" : "paris"
    },
    {
       "cc" : "nl",
-      "name" : "randstad"
+      "code" : "randstad"
    },
    {
       "cc" : "de",
-      "name" : "rhine-ruhr"
+      "code" : "rhineruhr"
    },
    {
       "cc" : "ru",
-      "name" : "st. pete"
+      "code" : "saintpetersburg"
    },
    {
       "cc" : "de",
-      "name" : "stuttgart"
+      "code" : "stuttgart"
    },
    {
       "cc" : "us",
-      "name" : "atlanta"
+      "code" : "atlanta"
    },
    {
       "cc" : "us",
-      "name" : "boston"
+      "code" : "boston"
    },
    {
       "cc" : "us",
-      "name" : "chicago"
+      "code" : "chicago"
    },
    {
       "cc" : "us",
-      "name" : "dallas-FW"
+      "code" : "dallasfortworth"
    },
    {
       "cc" : "mx",
-      "name" : "guadalahara"
+      "code" : "guadalahara"
    },
    {
       "cc" : "us",
-      "name" : "houston"
+      "code" : "houston"
    },
    {
       "cc" : "us",
-      "name" : "los angeles"
+      "code" : "losangeles"
    },
    {
       "cc" : "us",
-      "name" : "miami"
+      "code" : "miami"
    },
    {
       "cc" : "mx",
-      "name" : "mexico city"
+      "code" : "mexicocity"
    },
    {
       "cc" : "mx",
-      "name" : "monterrey"
+      "code" : "monterrey"
    },
    {
       "cc" : "us",
-      "name" : "new york"
+      "code" : "newyork"
    },
    {
       "cc" : "us",
-      "name" : "philadelphia"
+      "code" : "philadelphia"
    },
    {
       "cc" : "us",
-      "name" : "phoenix"
+      "code" : "phoenix"
    },
    {
       "cc" : "us",
-      "name" : "san francisco"
+      "code" : "sanfrancisco"
    },
    {
       "cc" : "ca",
-      "name" : "toronto"
+      "code" : "toronto"
    },
    {
       "cc" : "us",
-      "name" : "washington dc"
+      "code" : "washingtondc"
    },
    {
       "cc" : "co",
-      "name" : "bogota"
+      "code" : "bogota"
    },
    {
       "cc" : "br",
-      "name" : "belo horizonte"
+      "code" : "belohorizonte"
    },
    {
       "cc" : "ar",
-      "name" : "buenos aires"
+      "code" : "buenosaires"
    },
    {
       "cc" : "pe",
-      "name" : "lima"
+      "code" : "lima"
    },
    {
       "cc" : "br",
-      "name" : "rio de janeiro"
+      "code" : "riodejaneiro"
    },
    {
       "cc" : "br",
-      "name" : "sao paulo"
+      "code" : "saopaulo"
    },
    {
       "cc" : "cl",
-      "name" : "santiago"
+      "code" : "santiago"
    }
 ]
