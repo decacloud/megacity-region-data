@@ -11,6 +11,6 @@ Top-level JSON object:   Array of megacity regions.
 ```
 {
   "cc": "ISO Alpha-2 country code",
-  "code": "megacity region code name"
+  "display": "megacity region display name (International)"
 }
 ```
