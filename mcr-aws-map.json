@@ -1,0 +1,319 @@
+{
+  "mcr_to_aws": {
+    "ALE": {
+      "region": ""
+    },
+    "CAI": {
+      "region": ""
+    },
+    "DXB": {
+      "region": ""
+    },
+    "JNB": {
+      "region": ""
+    },
+    "KSH": {
+      "region": ""
+    },
+    "LOS": {
+      "region": ""
+    },
+    "RUH": {
+      "region": ""
+    },
+    "ANK": {
+      "region": ""
+    },
+    "BLR": {
+      "region": ""
+    },
+    "BKK": {
+      "region": ""
+    },
+    "PEK": {
+      "region": "cn-north-1"
+    },
+    "CZX": {
+      "region": ""
+    },
+    "CTU": {
+      "region": ""
+    },
+    "CKG": {
+      "region": ""
+    },
+    "DEL": {
+      "region": ""
+    },
+    "DAC": {
+      "region": ""
+    },
+    "GGZ": {
+      "region": ""
+    },
+    "HGH": {
+      "region": ""
+    },
+    "HKG": {
+      "region": "ap-east-1"
+    },
+    "JKI": {
+      "region": ""
+    },
+    "KBL": {
+      "region": ""
+    },
+    "KHI": {
+      "region": ""
+    },
+    "KKA": {
+      "region": ""
+    },
+    "KYO": {
+      "region": "ap-northeast-3"
+    },
+    "LHE": {
+      "region": ""
+    },
+    "MNL": {
+      "region": ""
+    },
+    "MEL": {
+      "region": ""
+    },
+    "MUM": {
+      "region": "ap-south-1"
+    },
+    "SKR": {
+      "region": "ap-northeast-2"
+    },
+    "SGP": {
+      "region": "ap-southeast-1"
+    },
+    "SHA": {
+      "region": ""
+    },
+    "SZX": {
+      "region": ""
+    },
+    "SYD": {
+      "region": "ap-southeast-2"
+    },
+    "SUR": {
+      "region": ""
+    },
+    "TEH": {
+      "region": ""
+    },
+    "TJN": {
+      "region": ""
+    },
+    "TJP": {
+      "region": "ap-northeast-1"
+    },
+    "WUH": {
+      "region": ""
+    },
+    "XIY": {
+      "region": "cn-northwest-1"
+    },
+    "BCN": {
+      "region": ""
+    },
+    "BLN": {
+      "region": ""
+    },
+    "FRA": {
+      "region": "eu-central-1"
+    },
+    "HAM": {
+      "region": ""
+    },
+    "ISL": {
+      "region": ""
+    },
+    "LUK": {
+      "region": "eu-west-1"
+    },
+    "MAD": {
+      "region": ""
+    },
+    "MIL": {
+      "region": ""
+    },
+    "MOW": {
+      "region": ""
+    },
+    "MUC": {
+      "region": ""
+    },
+    "PFR": {
+      "region": "eu-west-3"
+    },
+    "RSD": {
+      "region": "eu-north-1"
+    },
+    "RHR": {
+      "region": ""
+    },
+    "STP": {
+      "region": ""
+    },
+    "STR": {
+      "region": ""
+    },
+    "ATL": {
+      "region": ""
+    },
+    "BOS": {
+      "region": ""
+    },
+    "CHI": {
+      "region": "us-east-2"
+    },
+    "DFW": {
+      "region": ""
+    },
+    "GDL": {
+      "region": ""
+    },
+    "HUS": {
+      "region": ""
+    },
+    "LAX": {
+      "region": ""
+    },
+    "MIA": {
+      "region": ""
+    },
+    "MEX": {
+      "region": ""
+    },
+    "MTY": {
+      "region": ""
+    },
+    "NYC": {
+      "region": ""
+    },
+    "PHL": {
+      "region": ""
+    },
+    "PHX": {
+      "region": "us-gov-west-1"
+    },
+    "SFO": {
+      "region": "us-west-1"
+    },
+    "YYZ": {
+      "region": "ca-central-1"
+    },
+    "WAS": {
+      "region": "us-east-1"
+    },
+    "BOG": {
+      "region": ""
+    },
+    "CNF": {
+      "region": ""
+    },
+    "EZE": {
+      "region": ""
+    },
+    "LIM": {
+      "region": ""
+    },
+    "GIG": {
+      "region": ""
+    },
+    "GRU": {
+      "region": "sa-east-1"
+    },
+    "SCL": {
+      "region": ""
+    },
+    "CCS": {
+      "region": ""
+    }
+  },
+  "aws_to_mcr": {
+    "us-east-1": {
+      "code": "WAS",
+      "hiq": true
+    },
+    "us-east-2": {
+      "code": "CHI"
+    },
+    "us-west-1": {
+      "code": "SFO",
+      "hiq": true
+    },
+    "us-west-2": {
+      "code": "SFO"
+    },
+    "ap-east-1": {
+      "code": "HKG",
+      "hiq": true
+    },
+    "ap-south-1": {
+      "code": "MUM",
+      "hiq": true
+    },
+    "ap-northeast-1": {
+      "code": "TJP",
+      "hiq": true
+    },
+    "ap-northeast-2": {
+      "code": "SKR",
+      "hiq": true
+    },
+    "ap-northeast-3": {
+      "code": "KYO"
+    },
+    "ap-southeast-1": {
+      "code": "SGP",
+      "hiq": true
+    },
+    "ap-southeast-2": {
+      "code": "SYD",
+      "hiq": true
+    },
+    "ca-central-1": {
+      "code": "YYZ"
+    },
+    "cn-north-1": {
+      "code": "PEK",
+      "hiq": true
+    },
+    "cn-northwest-1": {
+      "code": "XIY"
+    },
+    "eu-central-1": {
+      "code": "FRA",
+      "hiq": true
+    },
+    "eu-west-1": {
+      "code": "LUK"
+    },
+    "eu-west-2": {
+      "code": "LUK",
+      "hiq": true
+    },
+    "eu-west-3": {
+      "code": "PFR",
+      "hiq": true
+    },
+    "eu-north-1": {
+      "code": "RSD"
+    },
+    "sa-east-1": {
+      "code": "GRU",
+      "hiq": true
+    },
+    "us-gov-east-1": {
+      "code": "WAS"
+    },
+    "us-gov-west-1": {
+      "code": "PHX"
+    }
+  }
+}
