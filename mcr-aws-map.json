@@ -1,85 +1,85 @@
 {
   "mcr_to_aws": {
     "ALE": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "CAI": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "DXB": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "JNB": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "KSH": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "LOS": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "RUH": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "ANK": {
-      "region": ""
+      "region": "eu-central-1"
     },
     "BLR": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "BKK": {
-      "region": ""
+      "region": "ap-southeast-1"
     },
     "PEK": {
       "region": "cn-north-1"
     },
     "CZX": {
-      "region": ""
+      "region": "cn-north-1"
     },
     "CTU": {
-      "region": ""
+      "region": "cn-northwest-1"
     },
     "CKG": {
-      "region": ""
+      "region": "cn-northwest-1"
     },
     "DEL": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "DAC": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "GGZ": {
-      "region": ""
+      "region": "cn-northwest-1"
     },
     "HGH": {
-      "region": ""
+      "region": "cn-northwest-1"
     },
     "HKG": {
       "region": "ap-east-1"
     },
     "JKI": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "KBL": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "KHI": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "KKA": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "KYO": {
       "region": "ap-northeast-3"
     },
     "LHE": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "MNL": {
-      "region": ""
+      "region": "ap-southeast-1"
     },
     "MEL": {
-      "region": ""
+      "region": "ap-southeast-2"
     },
     "MUM": {
       "region": "ap-south-1"
@@ -91,61 +91,61 @@
       "region": "ap-southeast-1"
     },
     "SHA": {
-      "region": ""
+      "region": "ap-east-1"
     },
     "SZX": {
-      "region": ""
+      "region": "ap-east-1"
     },
     "SYD": {
       "region": "ap-southeast-2"
     },
     "SUR": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "TEH": {
-      "region": ""
+      "region": "ap-south-1"
     },
     "TJN": {
-      "region": ""
+      "region": "cn-north-1"
     },
     "TJP": {
       "region": "ap-northeast-1"
     },
     "WUH": {
-      "region": ""
+      "region": "cn-north-1"
     },
     "XIY": {
       "region": "cn-northwest-1"
     },
     "BCN": {
-      "region": ""
+      "region": "eu-west-2"
     },
     "BLN": {
-      "region": ""
+      "region": "eu-central-1"
     },
     "FRA": {
       "region": "eu-central-1"
     },
     "HAM": {
-      "region": ""
+      "region": "eu-central-1"
     },
     "ISL": {
-      "region": ""
+      "region": "eu-central-1"
     },
     "LUK": {
       "region": "eu-west-1"
     },
     "MAD": {
-      "region": ""
+      "region": "eu-central-1"
     },
     "MIL": {
-      "region": ""
+      "region": "eu-central-1"
     },
     "MOW": {
-      "region": ""
+      "region": "eu-central-1"
     },
     "MUC": {
-      "region": ""
+      "region": "eu-central-1"
     },
     "PFR": {
       "region": "eu-west-3"
@@ -154,52 +154,53 @@
       "region": "eu-north-1"
     },
     "RHR": {
-      "region": ""
+      "region": "eu-central-1"
     },
     "STP": {
-      "region": ""
+      "region": "eu-central-1"
     },
     "STR": {
-      "region": ""
+      "region": "eu-central-1"
     },
     "ATL": {
-      "region": ""
+      "region": "us-east-1"
     },
     "BOS": {
-      "region": ""
+      "region": "us-east-1"
     },
     "CHI": {
       "region": "us-east-2"
     },
     "DFW": {
-      "region": ""
+      "region": "us-east-1"
     },
     "GDL": {
-      "region": ""
+      "region": "us-east-1"
     },
     "HUS": {
-      "region": ""
+      "region": "us-east-1"
     },
     "LAX": {
-      "region": ""
+      "region": "us-west-1"
     },
     "MIA": {
-      "region": ""
+      "region": "us-east-1"
     },
     "MEX": {
-      "region": ""
+      "region": "us-east-1"
     },
     "MTY": {
-      "region": ""
+      "region": "us-east-1"
     },
     "NYC": {
-      "region": ""
+      "region": "us-east-1"
     },
     "PHL": {
-      "region": ""
+      "region": "us-east-1"
     },
     "PHX": {
-      "region": "us-gov-west-1"
+      "region": "us-west-1",
+      "govregion": "us-gov-west-1"
     },
     "SFO": {
       "region": "us-west-1"
@@ -211,28 +212,28 @@
       "region": "us-east-1"
     },
     "BOG": {
-      "region": ""
+      "region": "sa-east-1"
     },
     "CNF": {
-      "region": ""
+      "region": "sa-east-1"
     },
     "EZE": {
-      "region": ""
+      "region": "sa-east-1"
     },
     "LIM": {
-      "region": ""
+      "region": "sa-east-1"
     },
     "GIG": {
-      "region": ""
+      "region": "sa-east-1"
     },
     "GRU": {
       "region": "sa-east-1"
     },
     "SCL": {
-      "region": ""
+      "region": "sa-east-1"
     },
     "CCS": {
-      "region": ""
+      "region": "sa-east-1"
     }
   },
   "aws_to_mcr": {
