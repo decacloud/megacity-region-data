@@ -1,5 +1,5 @@
 AC_PREREQ(2.60)
-AC_INIT(megacity-region-data, 0.0.2, [Jeff Garzik <jgarzik@pobox.com>])
+AC_INIT(megacity-region-data, 0.0.3, [Jeff Garzik <jgarzik@pobox.com>])
 AC_CONFIG_SRCDIR([megacityregions.json.gz])
 AC_CONFIG_HEADERS([mcr-config.h])
 
