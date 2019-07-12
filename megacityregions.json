@@ -1,394 +1,394 @@
 {
- "regions": [
-   {
-      "cc" : "eg",
-      "code" : "ALE",
-      "display" : "alexandria"
-   },
-   {
-      "cc" : "eg",
-      "code" : "CAI",
-      "display" : "cairo"
-   },
-   {
-      "cc" : "ae",
-      "code" : "DXB",
-      "display" : "dubai"
-   },
-   {
-      "cc" : "za",
-      "code" : "JNB",
-      "display" : "johannesburg"
-   },
-   {
-      "cc" : "cd",
-      "code" : "KSH",
-      "display" : "kinshasa"
-   },
-   {
-      "cc" : "ng",
-      "code" : "LOS",
-      "display" : "lagos"
-   },
-   {
-      "cc" : "sa",
-      "code" : "RUH",
-      "display" : "riyadh"
-   },
-   {
-      "cc" : "tr",
-      "code" : "ANK",
-      "display" : "ankara"
-   },
-   {
-      "cc" : "in",
-      "code" : "BLR",
-      "display" : "bangalore"
-   },
-   {
-      "cc" : "th",
-      "code" : "BKK",
-      "display" : "bangkok"
-   },
-   {
-      "cc" : "cn",
-      "code" : "PEK",
-      "display" : "beijing"
-   },
-   {
-      "cc" : "cn",
-      "code" : "CZX",
-      "display" : "changzhou"
-   },
-   {
-      "cc" : "cn",
-      "code" : "CTU",
-      "display" : "chengdu"
-   },
-   {
-      "cc" : "cn",
-      "code" : "CKG",
-      "display" : "chongqing"
-   },
-   {
-      "cc" : "in",
-      "code" : "DEL",
-      "display" : "delhi"
-   },
-   {
-      "cc" : "bd",
-      "code" : "DAC",
-      "display" : "dhaka"
-   },
-   {
-      "cc" : "cn",
-      "code" : "GGZ",
-      "display" : "guangzhou"
-   },
-   {
-      "cc" : "cn",
-      "code" : "HGH",
-      "display" : "hangzhou"
-   },
-   {
-      "cc" : "hk",
-      "code" : "HKG",
-      "display" : "hong kong"
-   },
-   {
-      "cc" : "id",
-      "code" : "JKI",
-      "display" : "jakarta"
-   },
-   {
-      "cc" : "af",
-      "code" : "KBL",
-      "display" : "kabul"
-   },
-   {
-      "cc" : "pk",
-      "code" : "KHI",
-      "display" : "karachi"
-   },
-   {
-      "cc" : "in",
-      "code" : "KKA",
-      "display" : "kolkata"
-   },
-   {
-      "cc" : "jp",
-      "code" : "KYO",
-      "display" : "kyoto"
-   },
-   {
-      "cc" : "pk",
-      "code" : "LHE",
-      "display" : "lahore"
-   },
-   {
-      "cc" : "ph",
-      "code" : "MNL",
-      "display" : "manila"
-   },
-   {
-      "cc" : "au",
-      "code" : "MEL",
-      "display" : "melbourne"
-   },
-   {
-      "cc" : "in",
-      "code" : "MUM",
-      "display" : "mumbai"
-   },
-   {
-      "cc" : "kr",
-      "code" : "SKR",
-      "display" : "seoul"
-   },
-   {
-      "cc" : "sg",
-      "code" : "SGP",
-      "display" : "singapore"
-   },
-   {
-      "cc" : "cn",
-      "code" : "SHA",
-      "display" : "shanghai"
-   },
-   {
-      "cc" : "cn",
-      "code" : "SZX",
-      "display" : "shenzhen"
-   },
-   {
-      "cc" : "au",
-      "code" : "SYD",
-      "display" : "sydney"
-   },
-   {
-      "cc" : "in",
-      "code" : "SUR",
-      "display" : "surat"
-   },
-   {
-      "cc" : "ir",
-      "code" : "TEH",
-      "display" : "tehran"
-   },
-   {
-      "cc" : "cn",
-      "code" : "TJN",
-      "display" : "tianjin"
-   },
-   {
-      "cc" : "jp",
-      "code" : "TJP",
-      "display" : "tokyo"
-   },
-   {
-      "cc" : "cn",
-      "code" : "WUH",
-      "display" : "wuhan"
-   },
-   {
-      "cc" : "cn",
-      "code" : "XIY",
-      "display" : "xian"
-   },
-   {
-      "cc" : "es",
-      "code" : "BCN",
-      "display" : "barcelona"
-   },
-   {
-      "cc" : "de",
-      "code" : "BLN",
-      "display" : "berlin"
-   },
-   {
-      "cc" : "de",
-      "code" : "FRA",
-      "display" : "frankfurt"
-   },
-   {
-      "cc" : "de",
-      "code" : "HAM",
-      "display" : "hamburg"
-   },
-   {
-      "cc" : "tr",
-      "code" : "ISL",
-      "display" : "istanbul"
-   },
-   {
-      "cc" : "uk",
-      "code" : "LUK",
-      "display" : "london"
-   },
-   {
-      "cc" : "es",
-      "code" : "MAD",
-      "display" : "madrid"
-   },
-   {
-      "cc" : "it",
-      "code" : "MIL",
-      "display" : "milan"
-   },
-   {
-      "cc" : "ru",
-      "code" : "MOW",
-      "display" : "moscow"
-   },
-   {
-      "cc" : "de",
-      "code" : "MUC",
-      "display" : "munich"
-   },
-   {
-      "cc" : "fr",
-      "code" : "PFR",
-      "display" : "paris"
-   },
-   {
-      "cc" : "nl",
-      "code" : "RSD",
-      "display" : "randstad"
-   },
-   {
-      "cc" : "de",
-      "code" : "RHR",
-      "display" : "rhine-ruhr"
-   },
-   {
-      "cc" : "ru",
-      "code" : "STP",
-      "display" : "saint petersburg"
-   },
-   {
-      "cc" : "de",
-      "code" : "STR",
-      "display" : "stuttgart"
-   },
-   {
-      "cc" : "us",
-      "code" : "ATL",
-      "display" : "atlanta"
-   },
-   {
-      "cc" : "us",
-      "code" : "BOS",
-      "display" : "boston"
-   },
-   {
-      "cc" : "us",
-      "code" : "CHI",
-      "display" : "chicago"
-   },
-   {
-      "cc" : "us",
-      "code" : "DFW",
-      "display" : "dallas-fort worth"
-   },
-   {
-      "cc" : "mx",
-      "code" : "GDL",
-      "display" : "guadalahara"
-   },
-   {
-      "cc" : "us",
-      "code" : "HUS",
-      "display" : "houston"
-   },
-   {
-      "cc" : "us",
-      "code" : "LAX",
-      "display" : "los angeles"
-   },
-   {
-      "cc" : "us",
-      "code" : "MIA",
-      "display" : "miami"
-   },
-   {
-      "cc" : "mx",
-      "code" : "MEX",
-      "display" : "mexico city"
-   },
-   {
-      "cc" : "mx",
-      "code" : "MTY",
-      "display" : "monterrey"
-   },
-   {
-      "cc" : "us",
-      "code" : "NYC",
-      "display" : "new york"
-   },
-   {
-      "cc" : "us",
-      "code" : "PHL",
-      "display" : "philadelphia"
-   },
-   {
-      "cc" : "us",
-      "code" : "PHX",
-      "display" : "phoenix"
-   },
-   {
-      "cc" : "us",
-      "code" : "SFO",
-      "display" : "san francisco"
-   },
-   {
-      "cc" : "ca",
-      "code" : "YYZ",
-      "display" : "toronto"
-   },
-   {
-      "cc" : "us",
-      "code" : "WAS",
-      "display" : "washington dc"
-   },
-   {
-      "cc" : "co",
-      "code" : "BOG",
-      "display" : "bogota"
-   },
-   {
-      "cc" : "br",
-      "code" : "CNF",
-      "display" : "belohorizonte"
-   },
-   {
-      "cc" : "ar",
-      "code" : "EZE",
-      "display" : "buenos aires"
-   },
-   {
-      "cc" : "pe",
-      "code" : "LIM",
-      "display" : "lima"
-   },
-   {
-      "cc" : "br",
-      "code" : "GIG",
-      "display" : "rio de janeiro"
-   },
-   {
-      "cc" : "br",
-      "code" : "GRU",
-      "display" : "sao paulo"
-   },
-   {
-      "cc" : "cl",
-      "code" : "SCL",
-      "display" : "santiago"
-   },
-   {
-      "cc" : "ve",
-      "code" : "CCS",
-      "display" : "caracas"
-   }
- ]
+  "regions": {
+    "ALE": {
+      "cc": "eg",
+      "code": "ALE",
+      "display": "alexandria"
+    },
+    "CAI": {
+      "cc": "eg",
+      "code": "CAI",
+      "display": "cairo"
+    },
+    "DXB": {
+      "cc": "ae",
+      "code": "DXB",
+      "display": "dubai"
+    },
+    "JNB": {
+      "cc": "za",
+      "code": "JNB",
+      "display": "johannesburg"
+    },
+    "KSH": {
+      "cc": "cd",
+      "code": "KSH",
+      "display": "kinshasa"
+    },
+    "LOS": {
+      "cc": "ng",
+      "code": "LOS",
+      "display": "lagos"
+    },
+    "RUH": {
+      "cc": "sa",
+      "code": "RUH",
+      "display": "riyadh"
+    },
+    "ANK": {
+      "cc": "tr",
+      "code": "ANK",
+      "display": "ankara"
+    },
+    "BLR": {
+      "cc": "in",
+      "code": "BLR",
+      "display": "bangalore"
+    },
+    "BKK": {
+      "cc": "th",
+      "code": "BKK",
+      "display": "bangkok"
+    },
+    "PEK": {
+      "cc": "cn",
+      "code": "PEK",
+      "display": "beijing"
+    },
+    "CZX": {
+      "cc": "cn",
+      "code": "CZX",
+      "display": "changzhou"
+    },
+    "CTU": {
+      "cc": "cn",
+      "code": "CTU",
+      "display": "chengdu"
+    },
+    "CKG": {
+      "cc": "cn",
+      "code": "CKG",
+      "display": "chongqing"
+    },
+    "DEL": {
+      "cc": "in",
+      "code": "DEL",
+      "display": "delhi"
+    },
+    "DAC": {
+      "cc": "bd",
+      "code": "DAC",
+      "display": "dhaka"
+    },
+    "GGZ": {
+      "cc": "cn",
+      "code": "GGZ",
+      "display": "guangzhou"
+    },
+    "HGH": {
+      "cc": "cn",
+      "code": "HGH",
+      "display": "hangzhou"
+    },
+    "HKG": {
+      "cc": "hk",
+      "code": "HKG",
+      "display": "hong kong"
+    },
+    "JKI": {
+      "cc": "id",
+      "code": "JKI",
+      "display": "jakarta"
+    },
+    "KBL": {
+      "cc": "af",
+      "code": "KBL",
+      "display": "kabul"
+    },
+    "KHI": {
+      "cc": "pk",
+      "code": "KHI",
+      "display": "karachi"
+    },
+    "KKA": {
+      "cc": "in",
+      "code": "KKA",
+      "display": "kolkata"
+    },
+    "KYO": {
+      "cc": "jp",
+      "code": "KYO",
+      "display": "kyoto"
+    },
+    "LHE": {
+      "cc": "pk",
+      "code": "LHE",
+      "display": "lahore"
+    },
+    "MNL": {
+      "cc": "ph",
+      "code": "MNL",
+      "display": "manila"
+    },
+    "MEL": {
+      "cc": "au",
+      "code": "MEL",
+      "display": "melbourne"
+    },
+    "MUM": {
+      "cc": "in",
+      "code": "MUM",
+      "display": "mumbai"
+    },
+    "SKR": {
+      "cc": "kr",
+      "code": "SKR",
+      "display": "seoul"
+    },
+    "SGP": {
+      "cc": "sg",
+      "code": "SGP",
+      "display": "singapore"
+    },
+    "SHA": {
+      "cc": "cn",
+      "code": "SHA",
+      "display": "shanghai"
+    },
+    "SZX": {
+      "cc": "cn",
+      "code": "SZX",
+      "display": "shenzhen"
+    },
+    "SYD": {
+      "cc": "au",
+      "code": "SYD",
+      "display": "sydney"
+    },
+    "SUR": {
+      "cc": "in",
+      "code": "SUR",
+      "display": "surat"
+    },
+    "TEH": {
+      "cc": "ir",
+      "code": "TEH",
+      "display": "tehran"
+    },
+    "TJN": {
+      "cc": "cn",
+      "code": "TJN",
+      "display": "tianjin"
+    },
+    "TJP": {
+      "cc": "jp",
+      "code": "TJP",
+      "display": "tokyo"
+    },
+    "WUH": {
+      "cc": "cn",
+      "code": "WUH",
+      "display": "wuhan"
+    },
+    "XIY": {
+      "cc": "cn",
+      "code": "XIY",
+      "display": "xian"
+    },
+    "BCN": {
+      "cc": "es",
+      "code": "BCN",
+      "display": "barcelona"
+    },
+    "BLN": {
+      "cc": "de",
+      "code": "BLN",
+      "display": "berlin"
+    },
+    "FRA": {
+      "cc": "de",
+      "code": "FRA",
+      "display": "frankfurt"
+    },
+    "HAM": {
+      "cc": "de",
+      "code": "HAM",
+      "display": "hamburg"
+    },
+    "ISL": {
+      "cc": "tr",
+      "code": "ISL",
+      "display": "istanbul"
+    },
+    "LUK": {
+      "cc": "uk",
+      "code": "LUK",
+      "display": "london"
+    },
+    "MAD": {
+      "cc": "es",
+      "code": "MAD",
+      "display": "madrid"
+    },
+    "MIL": {
+      "cc": "it",
+      "code": "MIL",
+      "display": "milan"
+    },
+    "MOW": {
+      "cc": "ru",
+      "code": "MOW",
+      "display": "moscow"
+    },
+    "MUC": {
+      "cc": "de",
+      "code": "MUC",
+      "display": "munich"
+    },
+    "PFR": {
+      "cc": "fr",
+      "code": "PFR",
+      "display": "paris"
+    },
+    "RSD": {
+      "cc": "nl",
+      "code": "RSD",
+      "display": "randstad"
+    },
+    "RHR": {
+      "cc": "de",
+      "code": "RHR",
+      "display": "rhine-ruhr"
+    },
+    "STP": {
+      "cc": "ru",
+      "code": "STP",
+      "display": "saint petersburg"
+    },
+    "STR": {
+      "cc": "de",
+      "code": "STR",
+      "display": "stuttgart"
+    },
+    "ATL": {
+      "cc": "us",
+      "code": "ATL",
+      "display": "atlanta"
+    },
+    "BOS": {
+      "cc": "us",
+      "code": "BOS",
+      "display": "boston"
+    },
+    "CHI": {
+      "cc": "us",
+      "code": "CHI",
+      "display": "chicago"
+    },
+    "DFW": {
+      "cc": "us",
+      "code": "DFW",
+      "display": "dallas-fort worth"
+    },
+    "GDL": {
+      "cc": "mx",
+      "code": "GDL",
+      "display": "guadalahara"
+    },
+    "HUS": {
+      "cc": "us",
+      "code": "HUS",
+      "display": "houston"
+    },
+    "LAX": {
+      "cc": "us",
+      "code": "LAX",
+      "display": "los angeles"
+    },
+    "MIA": {
+      "cc": "us",
+      "code": "MIA",
+      "display": "miami"
+    },
+    "MEX": {
+      "cc": "mx",
+      "code": "MEX",
+      "display": "mexico city"
+    },
+    "MTY": {
+      "cc": "mx",
+      "code": "MTY",
+      "display": "monterrey"
+    },
+    "NYC": {
+      "cc": "us",
+      "code": "NYC",
+      "display": "new york"
+    },
+    "PHL": {
+      "cc": "us",
+      "code": "PHL",
+      "display": "philadelphia"
+    },
+    "PHX": {
+      "cc": "us",
+      "code": "PHX",
+      "display": "phoenix"
+    },
+    "SFO": {
+      "cc": "us",
+      "code": "SFO",
+      "display": "san francisco"
+    },
+    "YYZ": {
+      "cc": "ca",
+      "code": "YYZ",
+      "display": "toronto"
+    },
+    "WAS": {
+      "cc": "us",
+      "code": "WAS",
+      "display": "washington dc"
+    },
+    "BOG": {
+      "cc": "co",
+      "code": "BOG",
+      "display": "bogota"
+    },
+    "CNF": {
+      "cc": "br",
+      "code": "CNF",
+      "display": "belohorizonte"
+    },
+    "EZE": {
+      "cc": "ar",
+      "code": "EZE",
+      "display": "buenos aires"
+    },
+    "LIM": {
+      "cc": "pe",
+      "code": "LIM",
+      "display": "lima"
+    },
+    "GIG": {
+      "cc": "br",
+      "code": "GIG",
+      "display": "rio de janeiro"
+    },
+    "GRU": {
+      "cc": "br",
+      "code": "GRU",
+      "display": "sao paulo"
+    },
+    "SCL": {
+      "cc": "cl",
+      "code": "SCL",
+      "display": "santiago"
+    },
+    "CCS": {
+      "cc": "ve",
+      "code": "CCS",
+      "display": "caracas"
+    }
+  }
 }
