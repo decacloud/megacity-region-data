@@ -35,12 +35,12 @@ function basicTest(code, obj)
 {
 	if (!code || !obj)
 		return false;
-	
+
 	if ( !('cc' in obj) ||
 	     !('code' in obj) ||
 	     !('display' in obj) )
 		return false;
-	
+
 	if (code !== obj.code)
 		return false;
 
